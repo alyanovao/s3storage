@@ -3,3 +3,8 @@
 ```shell
 docker compose -f docker-compose.yaml -p s3storage up -d
 ```
+
+## Адрес MinIO Console
+```shell
+http://localhost:9001
+```
